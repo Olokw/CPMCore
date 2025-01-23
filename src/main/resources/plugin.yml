@@ -1,0 +1,14 @@
+name: CPMCore
+version: '${project.version}'
+main: net.balacobaco.cpmcore.CPMCore
+api-version: '1.20'
+depend:
+  - SimpleClans
+  - Geyser-Spigot
+commands:
+  listabranca:
+    usage: /<command>
+  reloadskins:
+    usage: /<command>
+  prisao:
+    usage: /<command>
